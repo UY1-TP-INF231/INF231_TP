@@ -127,17 +127,3 @@ BASE LANGUAGE "©️"
 # Plus ⛓️
 Pour ample informations n'hésitez pas à contacter de qui besoin.
 
-Encore écrit ici en texte ordinaire
-    Ceci est la première ligne du bloc de code
-    La seconde ligne est encore plus en retrait
-    C’est une autre ligne du bloc de code
-C’est ici que le texte ordinaire recommence
-
-Ici ce qui suit [Lien](https://icones8.fr  "titre des icone").
-
-![image](https://share.google/BPPrXplryAZvFYyXQ)
-
-|cellule 1|cellule 2|
-|--------|--------|
-|    A    |    B    |
-|    C    |    D    |
