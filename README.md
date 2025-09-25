@@ -128,6 +128,6 @@ BASE LANGUAGE "©️"
 Pour ample informations n'hésitez pas à contacter de qui besoin.
 
 
-[] mom is all **for** me
+[x] mom is all **for** me
 [] follow me 
 [] non non
