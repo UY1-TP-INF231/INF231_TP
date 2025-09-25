@@ -127,7 +127,8 @@ BASE LANGUAGE "©️"
 # Plus ⛓️
 Pour ample informations n'hésitez pas à contacter de qui besoin.
 
-
-[x] mom `is` all **for** me
-[ ] follow me 
-[ ] non non
+Encore écrit ici en texte ordinaire
+    Ceci est la première ligne du bloc de code
+    La seconde ligne est encore plus en retrait
+    C’est une autre ligne du bloc de code
+C’est ici que le texte ordinaire recommence
