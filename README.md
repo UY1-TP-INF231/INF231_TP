@@ -125,4 +125,7 @@ BASE LANGUAGE "©️"
 * Sortie : un vecteur lignes
 
 # Plus ⛓️
-Pour ample informations n'ésitez pas à contacter de qui besoin.
+Pour ample informations n'hésitez pas à contacter de qui besoin.
+
+
+> mom is all for me
