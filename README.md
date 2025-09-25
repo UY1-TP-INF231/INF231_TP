@@ -136,3 +136,8 @@ C’est ici que le texte ordinaire recommence
 Ici ce qui suit [Lien](https://icones8.fr  "titre des icone").
 
 ![image](https://share.google/BPPrXplryAZvFYyXQ)
+
+|cellule 1|cellule 2|
+|--------|--------|
+|    A    |    B    |
+|    C    |    D    |
