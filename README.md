@@ -2,7 +2,7 @@
 ENSEMBLE DE PROGRAMMES C REPONDANT A DES PROBLEME PRECI
 BASE LANGUAGE "©️"
 
-## 1- Somme de matrices
+## 1- Somme de matrices 🔡➕🔠
 
 * But : Calculer la somme de deux matrices de même dimension.
 * Principe :
@@ -16,7 +16,7 @@ BASE LANGUAGE "©️"
 * Entrée : deux matrices (m × n).
 * Sortie : la somme (m × n)  .
 
-## 2- Produit de matrices
+## 2- Produit de matrices 🔡✖️🔠
 
 * But : Multiplier deux matrices.
 * Principe :
@@ -28,7 +28,7 @@ BASE LANGUAGE "©️"
 * Entrée : deux matrices M1 et M2.
 * Sortie : une matrice M3(m × n).
 
-## 3- Recherche séquentielle dans un tableau
+## 3- Recherche séquentielle dans un tableau 🔂
 
 * But : Rechercher une valeur donnée dans un tableau.
 * Principe :
@@ -41,7 +41,7 @@ BASE LANGUAGE "©️"
 * Entrée : un tableau et une valeur.
 * Sortie : Vaidationde la valeur si elle existe, sinon “non trouvé”.
 
-## 4- Multiplication (a × b) avec a,b > 0 en utilisant uniquement +1
+## 4- Multiplication (a × b) avec a,b > 0 en utilisant uniquement +1 🔄➕1️⃣
 
 * But : Calculer le produit de deux entiers positifs sans utiliser l’opérateur * ni l’addition classique.
 * Principe :
@@ -55,7 +55,7 @@ BASE LANGUAGE "©️"
 * Entrée : deux entiers positifs.
 * Sortie : leur produit.
 
-## 5- Tester si un tableau est trié
+## 5- Tester si un tableau est trié ✔️🔛
 
 * But : Vérifier si les éléments d’un tableau sont classés dans l’ordre croissant.
 * Principe :
@@ -64,12 +64,12 @@ BASE LANGUAGE "©️"
 
   * À chaque étape, on compare l’élément courant à l’élément suivant.
 
-  * Si un élément est plus grand que le suivant, le tableau n’est pas trié.
+  * Si un élément est plus grand que le suivant, ❌ le tableau n’est pas trié.
 * Entrée : un tableau.
-* Sortie : un message “Trié” ou “Non trié”.
+* Sortie : un message “✅ Trié” ou “🛑 Non trié”.
 
 
-## 6- Médiane dans un tableau
+## 6- Médiane dans un tableau ➗🟰
 
 * But : Trouver la médiane d’un tableau.
 * Principe :
@@ -84,7 +84,7 @@ BASE LANGUAGE "©️"
 * Sortie : un entier ou un réel (si moyenne).
 
 
-## 7- Inverser un tableau
+## 7- Inverser un tableau ➰
 
 * But : Renverser l’ordre des éléments d’un tableau.
 * Principe :
@@ -97,7 +97,7 @@ BASE LANGUAGE "©️"
 * Sortie : le tableau inversé.
 
 
-## 8- Produit vectoriel (cross product)
+## 8- Produit vectoriel (cross product) 🔤✖️🔤
 
 * But : Calculer le produit vectoriel de deux vecteurs en 3 dimensions.
 * Principe :
@@ -110,7 +110,7 @@ BASE LANGUAGE "©️"
 * Sortie : un vecteur 3D perpendiculaire aux deux.
 
 
-## 9- Produit vecteur × matrice
+## 9- Produit vecteur × matrice 🔤✖️🔡
 
 * But : Multiplier un vecteur ligne par une matrice.
 * Principe :
