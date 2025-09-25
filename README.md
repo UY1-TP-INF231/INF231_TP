@@ -129,5 +129,5 @@ Pour ample informations n'hésitez pas à contacter de qui besoin.
 
 
 [x] mom is all **for** me
-[] follow me 
-[] non non
+[ ] follow me 
+[ ] non non
